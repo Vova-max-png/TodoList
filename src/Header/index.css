@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFCA26;
+    padding: 10px;
+}
+
+header h1 {
+    color: white;
+    margin: 0;
+}
+
+.new {
+    padding: 5px 7px;
+    background-color: #2679FF;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
